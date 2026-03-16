@@ -1,0 +1,15 @@
+img {
+    width: 10%;
+}
+
+.container{
+    display: flex;  
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.item{
+    padding:20px;
+    background:lightgray;
+    margin:5px;
+}
